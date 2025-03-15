@@ -6,7 +6,7 @@ Facial Expression Recognition (FER) is a crucial role in human affective analysi
 ### Training
 Step 1: download basic facial expression dataset of ABAW 8th
 
-Step 2: load the model weight in the ./weights (will be uploaded)
+Step 2: load the model weight in the ./weights (will be upload)
 
 Step 3: change dataset_path, label_path and  in train.py to your path
 
